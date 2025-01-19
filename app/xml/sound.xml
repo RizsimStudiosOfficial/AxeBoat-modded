@@ -61,7 +61,8 @@
 			<url>sound/melo/meloah_a.mp3</url>
 		</son>
 		<son picto="picto15">
-			<url>sound/chips/chipsdel_a.mp3</url>
+			<url>sound/chips/chipsfeel_a.mp3</url>
+			<url>sound/chips/chipsfeel_b.mp3</url>
 		</son>
 		<son picto="picto16">
 			<url>sound/chips/chipschillin_a.mp3</url>
